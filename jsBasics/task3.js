@@ -3,8 +3,8 @@
 // Після чого створіть булеву змінну яка буде визначати чи особа повнолітня базуючись на заченні з попередньої змінної.
 // Виведіть усі змінні в консоль
 
-const age = 28
-const isAdult = age >= 18
+const age = 28;
+const isAdult = age >= 18;
 
-console.log('Вік:', age)
-console.log('Повнолітня:', isAdult)
+console.log('Вік:', age);
+console.log('Повнолітня:', isAdult);
