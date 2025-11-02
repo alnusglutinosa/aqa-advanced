@@ -1,10 +1,10 @@
 function countRec(val) {
   if (val <= 0) {
-    return
+    return;
   }
 
-  console.log(val)
-  countRec(val - 1)
+  console.log(val);
+  countRec(val - 1);
 }
 
-countRec(7)
+countRec(7);
