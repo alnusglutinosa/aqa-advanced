@@ -6,7 +6,7 @@ const endpointUser = 'https://jsonplaceholder.typicode.com/users/1';
 function fetchTodo() {
 	return fetch(endpointTodo).then((response) => {
 		if (!response.ok) {
-			throw new Error('error fetchTodo');
+			 throw new Error('error fetchTodo');
 		}
 
 		return response.json();
