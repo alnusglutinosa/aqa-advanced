@@ -7,9 +7,9 @@
 
 const radius = 10;
 const area = Math.PI * radius ** 2;
-console.log('Завдання 4.1');
-console.log('  Радіус=', radius.toFixed(2));
-console.log('  Площа кола=', area.toFixed(2));
+console.log("Завдання 4.1");
+console.log("  Радіус=", radius.toFixed(2));
+console.log("  Площа кола=", area.toFixed(2));
 
 // Завдання 4.2
 // Створіть змінну length і присвойте їй числове значення довжини прямокутника.
@@ -19,8 +19,8 @@ console.log('  Площа кола=', area.toFixed(2));
 const length = 100;
 const width = 5;
 const rectangleArea = length * width;
-console.log('Завдання 4.2');
-console.log('  Площа прямокутника=', rectangleArea.toFixed(2));
+console.log("Завдання 4.2");
+console.log("  Площа прямокутника=", rectangleArea.toFixed(2));
 
 // Завдання 4.3
 // Створіть змінну radius і присвойте їй числове значення радіуса циліндра.
@@ -30,5 +30,5 @@ console.log('  Площа прямокутника=', rectangleArea.toFixed(2));
 const cylinderRadius = 4;
 const height = 10;
 const cylinderVolume = Math.PI * cylinderRadius ** 2 * height;
-console.log('Завдання 4.3');
-console.log('  Обʼєм циліндра=', cylinderVolume.toFixed(2));
+console.log("Завдання 4.3");
+console.log("  Обʼєм циліндра=", cylinderVolume.toFixed(2));

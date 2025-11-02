@@ -6,5 +6,5 @@
 const age = 28;
 const isAdult = age >= 18;
 
-console.log('Вік:', age);
-console.log('Повнолітня:', isAdult);
+console.log("Вік:", age);
+console.log("Повнолітня:", isAdult);

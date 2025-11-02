@@ -3,9 +3,9 @@
 // Функція повинна вивести в консоль переданий текст через вказану кількість мілісекунд
 
 function printText(text, ms) {
-	setTimeout(() => {
-		console.log(text);
-	}, ms);
+  setTimeout(() => {
+    console.log(text);
+  }, ms);
 }
 
-printText('test fn printText', 3000);
+printText("test fn printText", 3000);

@@ -5,11 +5,11 @@
 // Виведіть результат в консоль.
 
 // Імена двох осіб
-const name1 = 'Оля';
-const name2 = 'Аня';
+const name1 = "Оля";
+const name2 = "Аня";
 
 // Конкатенація рядків
-const greetingConcat = 'Привіт, ' + name1 + ' і ' + name2 + '! Як справи?';
+const greetingConcat = "Привіт, " + name1 + " і " + name2 + "! Як справи?";
 console.log(greetingConcat);
 
 // Шаблонний рядок
